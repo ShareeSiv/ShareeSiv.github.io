@@ -3,9 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-I am Sharavanan Sivaraya, a third-year engineering undergraduate at the 
-University of Cambridge, where I work on software projects spanning machine 
-learning, browser extensions, and full-stack development.
+I am Sharavanan Sivaraya I am an uni student. I write stuff here.
 
 Alongside my studies I work as a freelance model and actor on commission, 
 something I have done for a number of years. Vogue described me as "the 
