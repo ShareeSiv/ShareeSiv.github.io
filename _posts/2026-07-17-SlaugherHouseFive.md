@@ -2,9 +2,10 @@
 title: Slaughterhouse Five (Vonnegut)
 description: A review about Slaughterhouse Five with some tangents
 author: Sharavanan Sivaraya
-date: 17-09-2026
+date: 17-09-2026 02:00:00 +0100
 categories: [Reviews,books]
 tags: [fiction]
+comments: false
 pin: true
 ---
 ★★★⯨☆ (3.5/5)
